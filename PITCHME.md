@@ -4,6 +4,10 @@ Hello!
 
 Hola!
 
+#VSLIDE
+
+GitPitch supports seven distinct transition effects between slides. The supported transitions are named convex, concave, default, fade, none, slide and zoom respectively.
+
 #HSLIDE
 
 ```ruby
